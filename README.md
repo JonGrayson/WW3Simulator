@@ -1,7 +1,7 @@
 # WW3Simulator
 
 *Disclaimer*/
-L is to launch the projectiles, R is to reset them to original position. Target names are offset, game must be played in full screen to fix the issue. I have no idea why it did this, but it did.\ ¯\_(ツ)_/¯ \
+L is to launch the projectiles, R is to reset them to original position. Target names are offset, game must be played in full screen to fix the issue. I have no idea why it did this, but it did. *Shrugs shoulders*
 
 *Fun Dialogue*\
 Professor: *plays and sees target names* "So did you order the attack on the Kangaroos and Emus?"\
